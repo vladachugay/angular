@@ -1,4 +1,4 @@
-# Introduction to Angular based on prevoius labs
+# Introduction to Angular based on previous labs
 
 Saperated some pages into components and routing was added.
 
