@@ -6,5 +6,22 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'my-app';
+  cards = [
+    {
+      title: 'LESS',
+      text: 'some text'
+    },
+    {
+      title: 'Bootstrap',
+      text: 'some text'
+    },
+    {
+      title: 'C#',
+      text: 'some text'
+    },
+    {
+      title: 'CSS',
+      text: 'some text'
+    }
+  ];
 }
